@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583214027 source:u:\c stuff\week 2\task10(mandelbrot)\main.c
+	<stdio.h>
+	<stdlib.h>
+
